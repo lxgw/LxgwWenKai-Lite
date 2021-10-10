@@ -9,7 +9,7 @@
 
 作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与 v1.100 版本的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 相比，本字体剔除 v1.100 版本增补的一些较不常用的汉字，恢复到过往版本 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 的字体文件体积。
 
-若完整版有特性更新，精简版也将会跟进（增加汉字或谚文除外）。
+若完整版有字形优化或特性更新，精简版也将会跟进（大量增字除外）。
 
 ## 字体介绍及预览
 请参阅 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 专页。
@@ -42,12 +42,21 @@
 ## 使用本字体的实例
 - [「纯纯写作」应用默认字体](https://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter&channel=0002160650432d595942&fromcase=60001)
 
-## 协助完善
-
-欢迎更多志同道合的朋友在此基础上继续让这款字体更臻完善，您可以通过以下方式与本人联系。
+## 联系作者
+您可以通过以下方式与作者联系。
 
 - **Telegram：** @lxgwtg
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
+
+## 其它项目
+- [霞鹜传承晰黑 / Lxgw Trad Clear Gothic](https://github.com/lxgw/LxgwClearGothic)
+- [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
+- [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
+- [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
+- [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
+
+## 打赏支持
+[点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
