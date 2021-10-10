@@ -9,7 +9,7 @@
 
 作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与 v1.100 版本的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 相比，本字体剔除 v1.100 版本增补的一些较不常用的汉字，恢复到过往版本 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 的字体文件体积。
 
-若完整版有特性更新，精简版也将会跟进（增加汉字、谚文除外）。
+若完整版有特性更新，精简版也将会跟进（增加汉字或谚文除外）。
 
 ## 字体介绍及预览
 请参阅 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 专页。
