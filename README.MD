@@ -1,1 +1,1 @@
-# LXGW WenKai Lite / 霞鹜文楷精简版
+# LXGW WenKai Lite / 霞鹜文楷轻便版
