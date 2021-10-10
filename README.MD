@@ -7,6 +7,9 @@
 
 与 v1.100 版本的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 相比，保留以往版本包含的常用汉字，字体文件体积更小。
 
+## 字体介绍及预览
+请参阅 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 专页。
+
 ## 字体下载
 在 [Releases](https://github.com/lxgw/LxgwWenKai-Lite/releases) 界面下载 ttf 格式字体文件。 
 
