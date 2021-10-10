@@ -7,7 +7,7 @@
 
 为便于开发者将字体嵌入软件中，按照 [霞鹜文楷 v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供轻便版。
 
-作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与 v1.100 版本的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 相比，本字体剔除 v1.100 版本增补的一些较不常用的汉字，字体文件体积更小。
+作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与 v1.100 版本的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 相比，本字体剔除 v1.100 版本增补的一些较不常用的汉字，恢复到过往版本 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 的字体文件体积。
 
 若完整版有特性更新，精简版也将会跟进（增加汉字除外）。
 
