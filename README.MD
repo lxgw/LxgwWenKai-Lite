@@ -7,8 +7,7 @@
 
 为便于开发者将字体嵌入软件中，按照 [霞鹜文楷 v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供轻便版。
 
-作为 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 的精简版，与 v1.100 版本的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 相比，剔除 v1.100 版本增补的一些较不常用的汉字，字体文件体积更小。  
-*（霞鹜文楷 v1.101 版 3 个字重总的文件体积为 43.5 MB，而轻便版 v1.101-lite 版本 3 个字重总的文件体积为 26.1 MB。）*
+作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与 v1.100 版本的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 相比，剔除 v1.100 版本增补的一些较不常用的汉字，字体文件体积更小。  
 
 ## 字体介绍及预览
 请参阅 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 专页。
@@ -16,6 +15,9 @@
 ## 字体下载
 在 [Releases](https://github.com/lxgw/LxgwWenKai-Lite/releases) 界面下载 ttf 格式字体文件。 
 
+## 注意事项
+1. 本字体可与完整版霞鹜文楷共存，其在简体中文环境下的字体家族名称为「**霞鹜文楷 轻便版**」，敬请留意。
+2. 本字体由于是精简版，故在 GBK 范围内会缺少一部分生僻字，如特别需要这些字，请下载 [完整版](https://github.com/lxgw/LxgwWenKai)。
 
 ## 授权信息
 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。
