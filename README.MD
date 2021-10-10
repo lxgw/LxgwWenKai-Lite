@@ -1,4 +1,8 @@
 # LXGW WenKai Lite / 霞鹜文楷轻便版
+
+[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai)](https://github.com/lxgw/LxgwWenKai-Lite)
+[![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai)](https://github.com/lxgw/LxgwWenKai-Lite/releases)
+
 为便于开发者将字体嵌入软件中，按照 [霞鹜文楷 v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供轻便版。
 
 与 v1.100 版本的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 相比，保留以往版本包含的常用汉字，字体文件体积更小。
