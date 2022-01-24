@@ -77,7 +77,7 @@
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
 ## 其它项目
-- [霞鹜传承晰黑 / Lxgw Trad Clear Gothic](https://github.com/lxgw/LxgwClearGothic)
+- [霞鹜臻楷 / Lxgw ZhenKai](https://github.com/lxgw/LxgwZhenKai)
 - [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
 - [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
