@@ -39,7 +39,7 @@
   - [x] 常用香港外字表 3-4 级
   - [ ] 常用香港外字表 5 级
   - [x] 台湾闽客汉字（外字表ㄅ级）
-- [ ] 补完 IICore。
+- [ ] 补完 IICore 范围内汉字。
 
 ## 字体下载
 在 [Releases](https://github.com/lxgw/LxgwWenKai-Lite/releases) 界面下载 ttf 格式字体文件。 [永硕个人网盘](http://lxgw.ys168.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会进行同步更新。
