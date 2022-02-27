@@ -36,7 +36,8 @@
   - [ ] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
   - [ ] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
   - [ ] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
-  - [ ] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
+  - [ ] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；    
+*（以上汉字加完，将不再加字。）*
 
 ## 字体下载
 在 [Releases](https://github.com/lxgw/LxgwWenKai-Lite/releases) 界面下载 ttf 格式字体文件。 [永硕个人网盘](http://lxgw.ys168.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会进行同步更新。
