@@ -36,7 +36,7 @@
   - [ ] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
   - [ ] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
   - [ ] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
-  - [ ] [#96](https://github.com/eisoch/irg/issues/86) 现代汉语中较常用的日韩越字；
+  - [ ] [#96](https://github.com/eisoch/irg/issues/86) 现代汉语中较常用的日本和制汉字、韩国吏读字和越南喃字；
   - [ ] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；    
 *（以上汉字增补完，将不再加入新字，否则将不符合「Lite」的性质。）*
 
