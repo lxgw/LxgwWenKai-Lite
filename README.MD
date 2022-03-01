@@ -18,13 +18,13 @@
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 原字库所含繁体字对应的简化字（仅限 GBK 范围内）；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「现代汉语常用字表」（老 3500 字）与「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），共计 3603 个简体常用汉字;
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「信息交换用汉字编码字符集（GB/T 2312-80）」 6763 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「通用规范汉字表」8105 个汉字；
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) [「通用规范汉字表」](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm)8105 个汉字；
 - [ ] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  中国大陆 [「标准电码本（1983 年修订本）」](https://zi.tools/?secondary=character_set&set=GT) 收录的 7079 个汉字（5831→螀）；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  小鹤音形输入法表外字；
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  [小鹤音形](https://flypy.com/) 输入法表外字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 「GB/T 12345-90」6866 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区「常用国字标准字体表」4808 个繁体常用汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) BIG5 一级（常用）汉字 5401 个；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 「通用规范汉字表」内汉字对应的繁体字或港台异体字；
+- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [「通用规范汉字表」](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84) 内汉字对应的繁体字或港台异体字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 常用粤语、闽南语、客家语用字；*（基于 [「常用香港外字表」](https://github.com/ichitenfont/suppchara)）*
   - [x] 常用香港外字表 A-C 级
   - [x] 常用香港外字表 1-2 级
