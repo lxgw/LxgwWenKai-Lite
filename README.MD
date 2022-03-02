@@ -19,7 +19,7 @@
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「现代汉语常用字表」（老 3500 字）与「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），共计 3603 个简体常用汉字;
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「信息交换用汉字编码字符集（GB/T 2312-80）」 6763 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm)收录的 8105 个汉字；   [TXT 格式，附 Unicode 编码](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)
-- [ ] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  中国大陆[《标准电码本（1983 年修订本）》](https://zi.tools/?secondary=character_set&set=GT)收录的 7079 个汉字；  （5831→螀）
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  中国大陆[《标准电码本（1983 年修订本）》](https://zi.tools/?secondary=character_set&set=GT)收录的 7079 个汉字；   *（5831→螀，7016→镵）*
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  [小鹤音形](https://flypy.com/) 输入法表外字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 「GB/T 12345-90」6866 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区「常用国字标准字体表」4808 个繁体常用汉字；
@@ -33,12 +33,12 @@
   - [x] 台湾闽客汉字（外字表ㄅ级）
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 方正、汉仪简繁字库所含汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) IICore 范围内 9810 个汉字；
-- [ ] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
-  - [ ] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
-  - [ ] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
-  - [ ] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
-  - [ ] [#96](https://github.com/eisoch/irg/issues/86) 现代汉语中较常用的韩国吏读字和越南喃字；
-  - [ ] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
+  - [x] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
+  - [x] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
+  - [x] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
+  - [x] [#96](https://github.com/eisoch/irg/issues/86) 现代汉语中较常用的韩国吏读字和越南喃字；
+  - [x] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
 *（以上汉字增补完，将不再加入新字，否则将不符合「Lite」的性质。）*
 
 ## 字体下载
