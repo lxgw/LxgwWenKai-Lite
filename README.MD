@@ -20,7 +20,7 @@
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「信息交换用汉字编码字符集（GB/T 2312-80）」 6763 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm)收录的 8105 个汉字；   [TXT 格式，附 Unicode 编码](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  中国大陆[《标准电码本（1983 年修订本）》](https://zi.tools/?secondary=character_set&set=GT)收录的 7079 个汉字；   *（5831→螀，7016→镵）*
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  [小鹤音形](https://flypy.com/) 输入法表外字；
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  [小鹤音形输入法](https://flypy.com/) 表外字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 「GB/T 12345-90」6866 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区「常用国字标准字体表」4808 个繁体常用汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) BIG5 一级（常用）汉字 5401 个；
