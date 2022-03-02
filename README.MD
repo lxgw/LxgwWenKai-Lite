@@ -39,7 +39,7 @@
   - [x] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
   - [x] [#96](https://github.com/eisoch/irg/issues/86) 现代汉语中较常用的韩国吏读字和越南喃字；
   - [x] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
-*（以上汉字增补完，将不再加入新字，否则将不符合「Lite」的性质。）*
+*（以上汉字增补完，**将不再加入新字**，否则将不符合「Lite」的性质。）*
 
 ## 字体下载
 在 [Releases](https://github.com/lxgw/LxgwWenKai-Lite/releases) 界面下载 ttf 格式字体文件。 [永硕个人网盘](http://lxgw.ys168.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会进行同步更新。
