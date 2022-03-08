@@ -7,7 +7,7 @@
 
 为便于开发者将字体嵌入软件中，按照 [霞鹜文楷 v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供轻便版。
 
-作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与霞鹜文楷完整版相比，本字体剔除完整版增补的一些较不常用的汉字，恢复到过往版本的字体文件体积。
+作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与霞鹜文楷完整版相比，本字体剔除完整版增补的一些较不常用的汉字。
 
 若完整版有字形优化或特性更新，精简版也将会跟进。
 
@@ -39,10 +39,11 @@
   - [x] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
   - [x] [#96](https://github.com/eisoch/irg/issues/96) 现代汉语中较常用的韩国吏读字和越南喃字；
   - [x] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
-*（以上汉字增补完，**将不再加入新字**，否则将不符合「Lite」的性质。）*
+*（以上汉字增补完，**将不再加入新字**，否则将不符合「Lite」的性质。目前各个字体文件的大小已达到 9~10 MB。）*
 
 ## 字体下载
-在 [Releases](https://github.com/lxgw/LxgwWenKai-Lite/releases) 界面下载 ttf 格式字体文件。 [永硕个人网盘](http://lxgw.ys168.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会进行同步更新。
+- 在 [Releases](https://github.com/lxgw/LxgwWenKai-Lite/releases) 界面下载 ttf 格式字体文件。
+- [永硕Ｅ盘](http://lxgw.ysepan.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会在 GitHub 项目更新后 24 小时之内更新。
 
 ## 注意事项
 1. 本字体可与完整版霞鹜文楷共存，其在简体中文环境下的字体家族名称为「**霞鹜文楷 轻便版**」，敬请留意。
