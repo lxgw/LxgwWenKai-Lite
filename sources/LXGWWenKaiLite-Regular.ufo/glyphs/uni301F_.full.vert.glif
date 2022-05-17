@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni301F.full.vert" format="1">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="373" y="804" type="line" smooth="yes"/>
+      <point x="377" y="811"/>
+      <point x="394" y="811"/>
+      <point x="406" y="802"/>
+      <point x="406" y="794"/>
+      <point x="405" y="793" type="qcurve" smooth="yes"/>
+      <point x="311" y="553" type="line" smooth="yes"/>
+      <point x="308" y="541"/>
+      <point x="268" y="541"/>
+      <point x="230" y="561"/>
+      <point x="230" y="574" type="qcurve" smooth="yes"/>
+      <point x="230" y="577"/>
+      <point x="232" y="581" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="138" y="552" type="line" smooth="yes"/>
+      <point x="132" y="543"/>
+      <point x="99" y="543"/>
+      <point x="59" y="565"/>
+      <point x="59" y="578" type="qcurve" smooth="yes"/>
+      <point x="59" y="582"/>
+      <point x="62" y="586" type="qcurve" smooth="yes"/>
+      <point x="248" y="804" type="line" smooth="yes"/>
+      <point x="254" y="811"/>
+      <point x="269" y="811"/>
+      <point x="279" y="802"/>
+      <point x="279" y="794"/>
+      <point x="277" y="790" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heart" format="1">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2665"/>
+  <outline>
+    <contour>
+      <point x="501" y="599" type="line"/>
+      <point x="527" y="673"/>
+      <point x="632" y="741"/>
+      <point x="746" y="741"/>
+      <point x="851" y="684"/>
+      <point x="918" y="580"/>
+      <point x="918" y="443"/>
+      <point x="868" y="343"/>
+      <point x="786" y="262"/>
+      <point x="689" y="186"/>
+      <point x="642" y="146" type="qcurve" smooth="yes"/>
+      <point x="533" y="53"/>
+      <point x="500" y="-60" type="qcurve"/>
+      <point x="468" y="52"/>
+      <point x="358" y="146" type="qcurve" smooth="yes"/>
+      <point x="311" y="187"/>
+      <point x="214" y="262"/>
+      <point x="173" y="303" type="qcurve" smooth="yes"/>
+      <point x="82" y="394"/>
+      <point x="82" y="508" type="qcurve" smooth="yes"/>
+      <point x="82" y="580"/>
+      <point x="147" y="684"/>
+      <point x="250" y="741"/>
+      <point x="364" y="741"/>
+      <point x="469" y="673"/>
+      <point x="498" y="599" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

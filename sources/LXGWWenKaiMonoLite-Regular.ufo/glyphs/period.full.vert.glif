@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.full.vert" format="1">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="890" y="768"/>
+      <point x="890" y="720"/>
+      <point x="853" y="687"/>
+      <point x="810" y="687"/>
+      <point x="775" y="731"/>
+      <point x="775" y="779"/>
+      <point x="808" y="811"/>
+      <point x="852" y="811"/>
+    </contour>
+  </outline>
+</glyph>

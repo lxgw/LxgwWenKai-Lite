@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="figuredash" format="1">
+  <advance width="500" height="500"/>
+  <unicode hex="2013"/>
+  <unicode hex="2012"/>
+  <outline>
+    <contour>
+      <point x="495" y="222" type="qcurve" smooth="yes"/>
+      <point x="5" y="222" type="line" smooth="yes"/>
+      <point x="-20" y="222"/>
+      <point x="-20" y="260" type="qcurve" smooth="yes"/>
+      <point x="-20" y="297"/>
+      <point x="5" y="297" type="qcurve" smooth="yes"/>
+      <point x="495" y="297" type="line" smooth="yes"/>
+      <point x="520" y="297"/>
+      <point x="520" y="260" type="qcurve" smooth="yes"/>
+      <point x="520" y="222"/>
+    </contour>
+  </outline>
+</glyph>

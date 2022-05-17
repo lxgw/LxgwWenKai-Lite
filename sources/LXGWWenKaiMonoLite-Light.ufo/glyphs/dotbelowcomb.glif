@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="1">
+  <advance width="0" height="0"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="-79" y="-176"/>
+      <point x="-117" y="-176"/>
+      <point x="-148" y="-139"/>
+      <point x="-148" y="-100"/>
+      <point x="-127" y="-77"/>
+      <point x="-89" y="-77"/>
+      <point x="-57" y="-114"/>
+      <point x="-57" y="-153"/>
+    </contour>
+  </outline>
+</glyph>

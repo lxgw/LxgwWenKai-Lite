@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF65" format="1">
+  <advance width="500" height="500"/>
+  <unicode hex="FF65"/>
+  <outline>
+    <contour>
+      <point x="294" y="274"/>
+      <point x="233" y="274"/>
+      <point x="189" y="307"/>
+      <point x="161" y="357"/>
+      <point x="161" y="418"/>
+      <point x="203" y="465"/>
+      <point x="264" y="465"/>
+      <point x="308" y="432"/>
+      <point x="337" y="382"/>
+      <point x="337" y="318"/>
+    </contour>
+  </outline>
+</glyph>

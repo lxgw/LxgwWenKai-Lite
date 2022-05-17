@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFFE2" format="1">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FFE2"/>
+  <outline>
+    <contour>
+      <point x="803" y="424" type="line"/>
+      <point x="164" y="424" type="line" smooth="yes"/>
+      <point x="154" y="424"/>
+      <point x="144" y="444"/>
+      <point x="144" y="467"/>
+      <point x="154" y="486"/>
+      <point x="164" y="486" type="qcurve" smooth="yes"/>
+      <point x="815" y="486" type="line" smooth="yes"/>
+      <point x="838" y="486"/>
+      <point x="865" y="459"/>
+      <point x="865" y="436" type="qcurve" smooth="yes"/>
+      <point x="865" y="235" type="line" smooth="yes"/>
+      <point x="865" y="225"/>
+      <point x="846" y="215"/>
+      <point x="823" y="215"/>
+      <point x="803" y="225"/>
+      <point x="803" y="235" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

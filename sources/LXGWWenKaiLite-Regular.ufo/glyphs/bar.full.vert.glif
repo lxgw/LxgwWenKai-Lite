@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar.full.vert" format="1">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="995" y="410" type="line" smooth="yes"/>
+      <point x="1014" y="410"/>
+      <point x="1014" y="351"/>
+      <point x="995" y="351" type="qcurve" smooth="yes"/>
+      <point x="5" y="351" type="line" smooth="yes"/>
+      <point x="-14" y="351"/>
+      <point x="-14" y="410"/>
+      <point x="5" y="410" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF07" format="1">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FF07"/>
+  <outline>
+    <contour>
+      <point x="521" y="590" type="line" smooth="yes"/>
+      <point x="521" y="579"/>
+      <point x="495" y="579" type="qcurve" smooth="yes"/>
+      <point x="485" y="579"/>
+      <point x="476" y="583" type="qcurve" smooth="yes"/>
+      <point x="469" y="585"/>
+      <point x="469" y="590" type="qcurve" smooth="yes"/>
+      <point x="463" y="801" type="line" smooth="yes"/>
+      <point x="463" y="809"/>
+      <point x="483" y="818"/>
+      <point x="508" y="818"/>
+      <point x="527" y="809"/>
+      <point x="527" y="801" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

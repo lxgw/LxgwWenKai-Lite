@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA4FE" format="1">
+  <advance width="500" height="500"/>
+  <unicode hex="A4FE"/>
+  <outline>
+    <contour>
+      <point x="390" y="117"/>
+      <point x="433" y="69"/>
+      <point x="433" y="15"/>
+      <point x="391" y="-21"/>
+      <point x="344" y="-21"/>
+      <point x="305" y="28"/>
+      <point x="305" y="82"/>
+      <point x="341" y="117"/>
+    </contour>
+    <contour>
+      <point x="274" y="314" type="qcurve" smooth="yes"/>
+      <point x="176" y="316" type="line" smooth="yes"/>
+      <point x="110" y="316"/>
+      <point x="93" y="313" type="qcurve" smooth="yes"/>
+      <point x="75" y="314"/>
+      <point x="75" y="347" type="qcurve" smooth="yes"/>
+      <point x="75" y="366"/>
+      <point x="88" y="366" type="qcurve" smooth="yes"/>
+      <point x="117" y="364"/>
+      <point x="237" y="364"/>
+      <point x="269" y="366" type="qcurve" smooth="yes"/>
+      <point x="276" y="366"/>
+      <point x="285" y="345"/>
+      <point x="285" y="314"/>
+    </contour>
+  </outline>
+</glyph>

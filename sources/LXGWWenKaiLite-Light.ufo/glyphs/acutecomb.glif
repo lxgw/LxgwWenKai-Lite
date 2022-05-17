@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="1">
+  <advance width="0" height="0"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="351" y="659" type="qcurve" smooth="yes"/>
+      <point x="249" y="617"/>
+      <point x="181" y="577" type="qcurve" smooth="yes"/>
+      <point x="175" y="574"/>
+      <point x="171" y="574" type="qcurve" smooth="yes"/>
+      <point x="156" y="574"/>
+      <point x="156" y="589" type="qcurve" smooth="yes"/>
+      <point x="156" y="595"/>
+      <point x="162" y="601" type="qcurve" smooth="yes"/>
+      <point x="218" y="651"/>
+      <point x="305" y="708" type="qcurve" smooth="yes"/>
+      <point x="309" y="710"/>
+      <point x="325" y="710"/>
+      <point x="359" y="682"/>
+      <point x="359" y="662"/>
+    </contour>
+  </outline>
+</glyph>

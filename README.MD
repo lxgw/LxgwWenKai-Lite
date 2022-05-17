@@ -3,7 +3,7 @@
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai-Lite)](https://github.com/lxgw/LxgwWenKai-Lite)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai-Lite)](https://github.com/lxgw/LxgwWenKai-Lite/releases)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/main/images/WenKaiLite-Preview.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/main/documentation/images/WenKaiLite-Preview.png)
 
 为便于开发者将字体嵌入软件中，按照 [霞鹜文楷 v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供轻便版。
 

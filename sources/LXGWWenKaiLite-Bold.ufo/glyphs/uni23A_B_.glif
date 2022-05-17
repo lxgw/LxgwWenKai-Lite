@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni23AB" format="1">
+  <advance width="1000" height="1000"/>
+  <unicode hex="23AB"/>
+  <outline>
+    <contour>
+      <point x="538" y="-126" type="line"/>
+      <point x="464" y="-126" type="line"/>
+      <point x="469" y="119"/>
+      <point x="473" y="460" type="qcurve" smooth="yes"/>
+      <point x="473" y="501"/>
+      <point x="432" y="556"/>
+      <point x="391" y="580" type="qcurve" smooth="yes"/>
+      <point x="376" y="589"/>
+      <point x="376" y="604" type="qcurve" smooth="yes"/>
+      <point x="376" y="621"/>
+      <point x="397" y="621" type="qcurve" smooth="yes"/>
+      <point x="428" y="621"/>
+      <point x="479" y="590" type="qcurve" smooth="yes"/>
+      <point x="549" y="546"/>
+      <point x="549" y="460" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

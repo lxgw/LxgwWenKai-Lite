@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalor" format="1">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2228"/>
+  <outline>
+    <contour>
+      <point x="149" y="669" type="line" smooth="yes"/>
+      <point x="146" y="674"/>
+      <point x="146" y="690"/>
+      <point x="165" y="706"/>
+      <point x="184" y="706"/>
+      <point x="190" y="697" type="qcurve" smooth="yes"/>
+      <point x="500" y="145" type="line"/>
+      <point x="811" y="697" type="line" smooth="yes"/>
+      <point x="816" y="706"/>
+      <point x="837" y="706"/>
+      <point x="855" y="691"/>
+      <point x="855" y="675"/>
+      <point x="852" y="669" type="qcurve" smooth="yes"/>
+      <point x="519" y="76" type="line" smooth="yes"/>
+      <point x="513" y="63"/>
+      <point x="502" y="63" type="qcurve" smooth="yes"/>
+      <point x="491" y="63"/>
+      <point x="483" y="77" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

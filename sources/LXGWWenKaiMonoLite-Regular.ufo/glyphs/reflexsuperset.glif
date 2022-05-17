@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reflexsuperset" format="1">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2287"/>
+  <outline>
+    <contour>
+      <point x="829" y="19"/>
+      <point x="809" y="19" type="qcurve" smooth="yes"/>
+      <point x="175" y="19" type="line" smooth="yes"/>
+      <point x="165" y="19"/>
+      <point x="155" y="39"/>
+      <point x="155" y="62"/>
+      <point x="165" y="81"/>
+      <point x="175" y="81" type="qcurve" smooth="yes"/>
+      <point x="809" y="81" type="line" smooth="yes"/>
+      <point x="829" y="81"/>
+    </contour>
+    <contour>
+      <point x="177" y="215" type="line" smooth="yes"/>
+      <point x="167" y="215"/>
+      <point x="157" y="235"/>
+      <point x="157" y="258"/>
+      <point x="167" y="277"/>
+      <point x="177" y="277" type="qcurve" smooth="yes"/>
+      <point x="609" y="277" type="line" smooth="yes"/>
+      <point x="654" y="277"/>
+      <point x="736" y="317"/>
+      <point x="788" y="399"/>
+      <point x="788" y="523"/>
+      <point x="736" y="606"/>
+      <point x="655" y="649"/>
+      <point x="609" y="649" type="qcurve" smooth="yes"/>
+      <point x="177" y="649" type="line" smooth="yes"/>
+      <point x="167" y="649"/>
+      <point x="157" y="669"/>
+      <point x="157" y="692"/>
+      <point x="167" y="711"/>
+      <point x="177" y="711" type="qcurve" smooth="yes"/>
+      <point x="611" y="711" type="line" smooth="yes"/>
+      <point x="672" y="711"/>
+      <point x="783" y="653"/>
+      <point x="854" y="543"/>
+      <point x="854" y="381"/>
+      <point x="785" y="271"/>
+      <point x="674" y="215"/>
+      <point x="611" y="215" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

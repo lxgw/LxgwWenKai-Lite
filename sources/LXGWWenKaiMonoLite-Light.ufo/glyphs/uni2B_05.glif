@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2B05" format="1">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2B05"/>
+  <outline>
+    <contour>
+      <point x="410" y="249" type="line"/>
+      <point x="410" y="71" type="line"/>
+      <point x="46" y="380" type="line"/>
+      <point x="410" y="688" type="line"/>
+      <point x="410" y="510" type="line"/>
+      <point x="894" y="510" type="line"/>
+      <point x="894" y="249" type="line"/>
+    </contour>
+  </outline>
+</glyph>
