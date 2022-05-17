@@ -3,7 +3,7 @@
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai-Lite)](https://github.com/lxgw/LxgwWenKai-Lite)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai-Lite)](https://github.com/lxgw/LxgwWenKai-Lite/releases)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/main/documentation/images/WenKaiLite-Preview.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/main/documentation/WenKaiLite-Preview.png)
 
 为便于开发者将字体嵌入软件中，按照 [霞鹜文楷 v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供轻便版。
 
@@ -40,9 +40,13 @@
   - [x] [#96](https://github.com/eisoch/irg/issues/96) 现代汉语中较常用的韩国吏读字和越南喃字；
   - [x] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
 
-## 字体下载
-- 在 [Releases](https://github.com/lxgw/LxgwWenKai-Lite/releases) 界面下载 ttf 格式字体文件。
+## 获取字体
+### ⅰ. 下载
+- 在 [Releases](https://github.com/lxgw/LxgwWenKai-Lite/releases) 界面下载 ttf 格式字体文件，或在本仓库 `fonts/TTF` 文件夹中下载。
 - [永硕Ｅ盘](http://lxgw.ysepan.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会在 GitHub 项目更新后 24 小时之内更新。
+
+### ⅱ. 从源代码生成
+请运行 `/sources/build.bat`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake`。
 
 ## 注意事项
 1. 本字体可与完整版霞鹜文楷共存，其在简体中文环境下的字体家族名称为「**霞鹜文楷 轻便版**」，敬请留意。
@@ -69,12 +73,10 @@
 ## 使用本字体的实例
 - [「纯纯写作」应用默认字体](https://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter&channel=0002160650432d595942&fromcase=60001)
 
-## 联系作者
-您可以通过以下方式与作者联系。
-
-- **Telegram：** @lxgwtg
+## 关注作者
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
-- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
+- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
