@@ -14,6 +14,8 @@
 ## 字体介绍及预览
 请参阅 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 专页。
 
+> ㊟ 精简版不包含谚文字符。
+
 ## 加字计划
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 原字库所含繁体字对应的简化字（仅限 GBK 范围内）；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「现代汉语常用字表」（老 3500 字）与「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），共计 3603 个简体常用汉字;
