@@ -70,6 +70,7 @@
 ## 鸣谢
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
 - [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 为字形设计提供指导；
+- [@夜煞之乐](https://github.com/NightFurySL2001) 为本项目的运营提供帮助；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
 
 ## 使用本字体的实例
