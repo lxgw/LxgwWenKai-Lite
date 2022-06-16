@@ -1,7 +1,7 @@
 # LXGW WenKai Lite / 霞鹜文楷轻便版
 
-[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai-Lite)](https://github.com/lxgw/LxgwWenKai-Lite)
-[![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai-Lite)](https://github.com/lxgw/LxgwWenKai-Lite/releases)
+[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Lite)
+[![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Lite/releases)
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/main/documentation/WenKaiLite-Preview.png)
 
