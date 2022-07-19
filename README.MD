@@ -1,7 +1,7 @@
 # LXGW WenKai Lite / 霞鹜文楷轻便版
 
-[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai-Lite)](https://github.com/lxgw/LxgwWenKai-Lite)
-[![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai-Lite)](https://github.com/lxgw/LxgwWenKai-Lite/releases)
+[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Lite)
+[![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Lite/releases)
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/main/documentation/WenKaiLite-Preview.png)
 
@@ -29,7 +29,7 @@
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区「常用国字标准字体表」4808 个繁体常用汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) BIG5 一级（常用）汉字 5401 个；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)内汉字对应的繁体字或港台异体字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 常用粤语、闽南语、客家语用字；*（基于[「常用香港外字表」](https://github.com/ichitenfont/suppchara)）*
+- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 港台地区常用粤语、闽南语、客家语用字；*（基于[「常用香港外字表」](https://github.com/ichitenfont/suppchara)）*
   - [x] 常用香港外字表 A-C 级
   - [x] 常用香港外字表 1-2 级
   - [x] 常用香港外字表 3-4 级
@@ -52,8 +52,12 @@
 - [永硕Ｅ盘](http://lxgw.ysepan.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会在 GitHub 项目更新后 24 小时之内更新。
 
 ### ⅱ. 从源代码生成
+<<<<<<< HEAD
 
 请运行 `/sources/build.bat`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
+=======
+请运行 `./sources/build.bat`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
+>>>>>>> f82fac528b2b5ee2f0f4c4647a1d20d2e8b275cd
 
 ## 注意事项
 
