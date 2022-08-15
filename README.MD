@@ -1,6 +1,4 @@
-> 本字体计划更名「霞鹜文楷 核心 / LXGW WenKai Core」。
-
-# LXGW WenKai Core / 霞鹜文楷 核心
+# LXGW WenKai <sup>Core</sup> / 霞鹜文楷 <sup>核心</sup>
 
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Lite)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Lite/releases)
