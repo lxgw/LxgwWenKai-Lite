@@ -1,23 +1,23 @@
 > 本字体计划更名「霞鹜文楷 核心 / LXGW WenKai Core」。
 
-# LXGW WenKai Lite / 霞鹜文楷轻便版
+# LXGW WenKai Core / 霞鹜文楷 核心
 
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Lite)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Lite/releases)
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/main/documentation/WenKaiLite-Preview.png)
 
-为便于开发者将字体嵌入软件中，按照 [霞鹜文楷 v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供轻便版。
+为便于开发者将字体嵌入软件中，按照 [霞鹜文楷 v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供 Core 版。
 
 作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与霞鹜文楷完整版相比，本字体剔除完整版增补的一些较不常用的汉字。
 
-若完整版有字形优化或特性更新，精简版也将会跟进。
+若完整版有字形优化或特性更新，Core 版也将会跟进。
 
 ## 字体介绍及预览
 
 请参阅 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 专页。
 
-> ㊟　精简版不包含谚文字符。
+> ㊟　Core 版不包含谚文字符。
 
 ## 加字计划
 
