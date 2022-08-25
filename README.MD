@@ -5,7 +5,7 @@
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/main/documentation/WenKaiLite-Preview.png)
 
-为便于开发者将字体嵌入软件中，按照 [霞鹜文楷 v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供 Core 版。
+为便于开发者将字体嵌入软件中，按照 [霞鹜文楷早期版本](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供 Core 版。
 
 作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与霞鹜文楷完整版相比，本字体剔除完整版增补的一些较不常用的汉字。
 
