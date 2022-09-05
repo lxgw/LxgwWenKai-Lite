@@ -1,4 +1,4 @@
-# LXGW WenKai <sup>Core</sup> / 霞鹜文楷 <sup>核心版</sup>
+# LXGW WenKai <sup>Core Edition</sup> / 霞鹜文楷 <sup>核心版</sup>
 
 （原轻便版 / Lite 版）  
 
