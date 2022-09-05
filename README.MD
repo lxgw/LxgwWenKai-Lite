@@ -1,15 +1,13 @@
-# LXGW WenKai <sup>Core Edition</sup> / 霞鹜文楷 <sup>核心版</sup>
+# LXGW WenKai <sup>Lite Edition</sup> / 霞鹜文楷 <sup>轻便版</sup>
 
-（原轻便版 / Lite 版）  
+[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Lite)
+[![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Lite/releases)
 
-[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai-Core?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Core)
-[![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai-Core?style=flat-square)](https://github.com/lxgw/LxgwWenKai-Core/releases)
-
-为便于开发者将字体嵌入软件中，按照 [霞鹜文楷早期版本](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供核心版（Core 版）。
+为便于开发者将字体嵌入软件中，按照 [霞鹜文楷早期版本](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供轻便版（Lite 版）。
 
 作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与霞鹜文楷完整版相比，本字体剔除完整版增补的一些较不常用的汉字及韩语谚文字符，适合嵌入于 APP 中。
 
-若完整版有字形优化或特性更新，核心版也将会跟进。
+若完整版有字形优化或特性更新，轻便版也将会跟进。
 
 ## 字体介绍及预览
 
@@ -34,7 +32,7 @@
   - [x] 外字表 3-4 级：常用粤字及异体字
   - [x] 外字表 5 级：次常用粤字及异体字
   - [x] 外字表ㄅ级：台湾闽客汉字
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [汉仪简繁字库](https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/hanyi_jianfan.txt)、[方正简繁字库](https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/fangzheng_jianfan.txt)简繁字库所含汉字；
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [汉仪简繁字库](https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/hanyi_jianfan.txt)、[方正简繁字库](https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/fangzheng_jianfan.txt)所含汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) IICore 范围内 9810 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
   - [x] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
@@ -56,7 +54,7 @@
 
 ## 注意事项
 
-1. 本字体可与完整版霞鹜文楷共存，其在简体中文环境下的字体家族名称为「**霞鹜文楷 核心版**」，其他语言环境下为 **LXGW WenKai Core**，敬请留意。
+1. 本字体可与完整版霞鹜文楷共存，其在简体中文环境下的字体家族名称为「**霞鹜文楷 轻便版**」，其他语言环境下为 **LXGW WenKai Lite**，敬请留意。
 2. 本字体由于是精简版，故在 GBK 范围内会缺少一部分较为生僻的汉字，如特别需要这些字，请下载 [完整版](https://github.com/lxgw/LxgwWenKai)。
 
 ## 授权信息
