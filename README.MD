@@ -11,7 +11,7 @@
 
 ## 字体介绍及预览
 
-请参阅 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 专页。
+字体介绍请参阅 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 专页。
 
 ## 加字计划
 
