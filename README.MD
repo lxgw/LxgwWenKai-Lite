@@ -13,6 +13,18 @@
 
 字体介绍请参阅 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 专页。
 
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkai-lite/main/documentation/wenkailite-1.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkai-lite/main/documentation/wenkailite-2.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkai-lite/main/documentation/wenkailite-3.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkai-lite/main/documentation/wenkailite-4.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkai-lite/main/documentation/wenkailite-5.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkai-lite/main/documentation/wenkailite-6.png)
+
 ## 加字计划
 
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 原字库所含繁体字对应的简化字（仅限 GBK 范围内）；
