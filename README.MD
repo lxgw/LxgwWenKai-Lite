@@ -107,7 +107,7 @@
 
 ## 其它项目
 
-- [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
+- [霞鹜新晰黑 / Lxgw Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
