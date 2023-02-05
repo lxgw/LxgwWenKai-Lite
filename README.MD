@@ -92,6 +92,11 @@
 - [@夜煞之乐](https://github.com/NightFurySL2001) 为本项目的运营提供帮助；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
 
+## 相关资料
+- [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
+- [GB/T 2312-1980 信息交换用汉字编码字符集 基本集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)
+- [GB/T 12345-1990 信息交换用汉字编码字符集 辅助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)
+
 ## 使用本字体的实例
 
 - [「纯纯写作」应用默认字体](https://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter&channel=0002160650432d595942&fromcase=60001)
