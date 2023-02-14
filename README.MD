@@ -35,7 +35,7 @@
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  [小鹤音形输入法](https://flypy.com/) 表外字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [「信息交换用汉字编码字符集 辅助集（GB/T 12345-90）」](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)6866 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)4825 个繁体常用汉字；
+- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [BIG5 一级（常用）汉字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 个；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 港台地区常用粤语、闽南语、客家语用字（基于[「常用香港外字表」](https://github.com/ichitenfont/suppchara)）：
@@ -91,6 +91,11 @@
 - [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 为字形设计提供指导；
 - [@夜煞之乐](https://github.com/NightFurySL2001) 为本项目的运营提供帮助；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
+
+## 相关资料
+- [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
+- [GB/T 2312-1980 信息交换用汉字编码字符集 基本集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)
+- [GB/T 12345-1990 信息交换用汉字编码字符集 辅助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)
 
 ## 使用本字体的实例
 
