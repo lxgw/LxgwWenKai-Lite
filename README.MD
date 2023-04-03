@@ -52,6 +52,8 @@
   - [x] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
   - [x] [#96](https://github.com/eisoch/irg/issues/96) 现代汉语中较常用的韩国吏读字和越南喃字；
   - [x] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
+- [ ] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《新华字典》（第 12 版）已入 U 字头、繁异体； 
+- [ ] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《现代汉语词典》（第 7 版）已入 U 字头、繁异体。
 
 ## 获取字体
 
