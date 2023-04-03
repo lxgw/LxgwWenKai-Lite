@@ -43,7 +43,8 @@
   - [x] 外字表 1-2 级：极常用粤字及异体字
   - [x] 外字表 3-4 级：常用粤字及异体字
   - [x] 外字表 5 级：次常用粤字及异体字
-  - [x] 外字表ㄅ级：台湾闽客汉字
+  - [ ] 外字表 6 级：其余粤字及异体字
+  - [x] 外字表ㄅ、ㄆ级：台湾闽客汉字
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [汉仪简繁字库](https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/hanyi_jianfan.txt)、[方正简繁字库](https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/fangzheng_jianfan.txt)所含汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) IICore 范围内 9810 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
