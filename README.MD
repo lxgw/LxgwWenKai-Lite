@@ -5,7 +5,7 @@
 
 为便于开发者将字体嵌入软件中，按照 [霞鹜文楷早期版本](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供轻便版（Lite 版）。
 
-作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与霞鹜文楷完整版相比，本字体剔除完整版增补的一些较不常用的汉字及韩语谚文字符，适合嵌入于 APP 中。
+作为原 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 字体的精简版，与霞鹜文楷完整版相比，本字体剔除完整版增补的一些较不常用的汉字及谚文字符，适合嵌入于 APP 中。
 
 若完整版有字形优化或特性更新，轻便版也将会跟进。
 
@@ -75,6 +75,9 @@
 ## 授权信息
 
 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。
+
+> [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[全文中文翻译](https://www.maoken.com/ofl)供参考。
+
 
 ### 许可
 
