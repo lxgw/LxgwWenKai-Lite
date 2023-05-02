@@ -43,7 +43,7 @@
   - [x] 外字表 1-2 级：极常用粤字及异体字
   - [x] 外字表 3-4 级：常用粤字及异体字
   - [x] 外字表 5 级：次常用粤字及异体字
-  - [ ] 外字表 6 级：其余粤字及异体字
+  - [x] 外字表 6 级：其余粤字及异体字
   - [x] 外字表ㄅ、ㄆ级：台湾闽客汉字
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [汉仪简繁字库](https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/hanyi_jianfan.txt)、[方正简繁字库](https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/fangzheng_jianfan.txt)所含汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) IICore 范围内 9810 个汉字；
@@ -53,8 +53,8 @@
   - [x] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
   - [x] [#96](https://github.com/eisoch/irg/issues/96) 现代汉语中较常用的韩国吏读字和越南喃字；
   - [x] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
-- [ ] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《新华字典》（第 12 版）已入 U 字头、繁异体； 
-- [ ] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《现代汉语词典》（第 7 版）已入 U 字头、繁异体。
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《新华字典》（第 12 版）已入 U 字头、繁异体； 
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《现代汉语词典》（第 7 版）已入 U 字头、繁异体。
 
 ## 获取字体
 
