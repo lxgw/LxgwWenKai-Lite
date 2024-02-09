@@ -93,7 +93,7 @@
 ## 鸣谢
 
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
-- 原始字体的设计师周建豪先生（Francis Chow），以及 [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计提供指导；
+- 原始字体的设计师周建豪（Francis Chow）先生，以及 [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计提供指导；
 - [@夜煞之乐](https://github.com/NightFurySL2001) 等为本项目的运营提供帮助；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?)、[@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta)、[@Steve-Yuu](https://github.com/Steve-Yuu) 等协助完善字体；
 - [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供 Powerline 符号。 
@@ -110,7 +110,7 @@
 
 ## 关注作者
 
-- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
