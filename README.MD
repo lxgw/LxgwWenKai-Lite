@@ -117,11 +117,19 @@
 - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
-## 其它项目
-
-- [霞鹜文楷（完整版）/ LXGW WenKai (full edition)](https://github.com/lxgw/LxgwWenKai) | [国标字形](https://github.com/lxgw/LxgwWenKaiGB) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC)
+## 更多「霞鹜」系列字体
+### 「霞鹜文楷」系列
+- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | Lite
+- [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
+- [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenKaiTC)
+### 「晰致尚铭」系列
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
+- [霞鹜晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
+- [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
+- [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
+- [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
+### 其他
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
