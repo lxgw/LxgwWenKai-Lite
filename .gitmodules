@@ -1,0 +1,3 @@
+[submodule "sources/monolgc"]
+	path = sources/monolgc
+	url = https://github.com/lxgw/LxgwWenKai-MonoLGC.git
