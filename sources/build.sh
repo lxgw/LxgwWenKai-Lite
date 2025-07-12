@@ -4,7 +4,6 @@ mkdir -p sources/temp
 mkdir -p sources/build
 # unzip
 python3 sources/shared/scripts/extract.py sources/shared/lite lite
-python3 sources/shared/scripts/extract.py sources/shared/fulldiff fulldiff
 # standard lite
 cp sources/temp/lite/Light.ufo sources/build/LXGWWenKaiLite-Light.ufo
 cp sources/temp/lite/Regular.ufo sources/build/LXGWWenKaiLite-Regular.ufo
