@@ -38,7 +38,7 @@
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [「信息交换用汉字编码字符集 辅助集（GB/T 12345-90）」](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)6866 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [BIG5 一级（常用）汉字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 个；
+- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [BIG5 全部汉字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5.txt) 13060 个；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 港台地区常用粤语、闽南语、客家语用字（基于[「常用香港外字表」](https://github.com/ichitenfont/suppchara)）：
   - [x] 外字表 A-C 级：BIG5 应有香港字
@@ -67,16 +67,16 @@
 
 ### ⅱ. 从源代码生成
 
-请运行 `./sources/build.bat` 或 `./sources/build.sh`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
+可通过 `make` 运行完整的构建流程： `make build`。目前的源代码依赖子模块 [LxgwWenKai-shared]( https://github.com/lxgw/LxgwWenKai-Shared)，且只能在类 Unix 系统运行，需要安装 Python 3。
 
 ## 注意事项
 
 1. 本字体可与完整版霞鹜文楷共存，其在简体中文环境下的字体家族名称为「**霞鹜文楷 轻便版**」，其他语言环境下为 **LXGW WenKai Lite**，敬请留意。
-2. 本字体由于是精简版，故在 GBK 范围内会缺少一部分较为生僻的汉字，如特别需要这些字，请下载 [完整版](https://github.com/lxgw/LxgwWenKai)。
+2. 本字体由于是精简版，故在 GB 18030-2022 实现级别 2 范围内会缺少一部分较为生僻的汉字，如特别需要这些字，请下载 [完整版](https://github.com/lxgw/LxgwWenKai)。
 
 ## 授权信息
 
-本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。
+本字体在 FONTWORKS（今 Monotype KK）开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目基础上改造，采用 [SIL Open Font License 1.1](https://openfontlicense.org) 授权许可。Klee 是 FONTWORKS 的商标。
 
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
@@ -94,7 +94,7 @@
 
 ## 鸣谢
 
-- [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
+- Fontworks Inc.（今 [Monotype KK](https://en.fontworks.co.jp/)）提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
 - 原始字体的设计师周建豪（Francis Chow）先生，以及 [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计提供指导；
 - [@夜煞之乐](https://github.com/NightFurySL2001) 等为本项目的运营提供帮助；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?)、[@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta)、[@Steve-Yuu](https://github.com/Steve-Yuu) 等协助完善字体；
@@ -117,10 +117,9 @@
 
 - **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
-- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
+- **[小红书](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b)、[即刻](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card)、[少数派](https://sspai.com/u/ng008g7q)、[站酷](https://www.zcool.com.cn/u/26715019)、[酷安](https://www.coolapk.com/u/633884)：** @落霞孤鹜lxgw
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
-- **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
 ## 更多「霞鹜」系列字体
 ### 「霞鹜文楷」系列
