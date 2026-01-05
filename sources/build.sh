@@ -23,6 +23,6 @@ cp sources/fontinfo/LXGWWenKaiMonoLite-Medium.plist sources/build/LXGWWenKaiMono
 cp sources/shared/lite/features.fea sources/build/LXGWWenKaiLite-Light.ufo/features.fea
 cp sources/shared/lite/features.fea sources/build/LXGWWenKaiLite-Regular.ufo/features.fea
 cp sources/shared/lite/features.fea sources/build/LXGWWenKaiLite-Medium.ufo/features.fea
-cp sources/shared/lite/features.fea sources/build/LXGWWenKaiMonoLite-Light.ufo/features.fea
-cp sources/shared/lite/features.fea sources/build/LXGWWenKaiMonoLite-Regular.ufo/features.fea
-cp sources/shared/lite/features.fea sources/build/LXGWWenKaiMonoLite-Medium.ufo/features.fea
+cp sources/shared/lite/features_mono.fea sources/build/LXGWWenKaiMonoLite-Light.ufo/features.fea
+cp sources/shared/lite/features_mono.fea sources/build/LXGWWenKaiMonoLite-Regular.ufo/features.fea
+cp sources/shared/lite/features_mono.fea sources/build/LXGWWenKaiMonoLite-Medium.ufo/features.fea
