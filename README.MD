@@ -9,7 +9,7 @@
 
 若完整版有字形优化或特性更新，轻便版也将会跟进。
 
-「霞鹜文楷 GB 轻便版」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于蝌蚪引号`“‘’”`宽度的选择，[点击此处查看一览表](documentation/uvs.pdf)。
+「霞鹜文楷 GB 轻便版」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于标点符号宽度和位置的选择，[点击此处查看一览表](documentation/uvs.pdf)。
 
 ## 字体介绍及预览
 
