@@ -102,7 +102,7 @@
 - 制表符、表意文字结构描述符（Ideographic Description Character, IDC）等字符借自 [思源黑体](https://github.com/adobe-fonts/source-han-sans)；
 - 吉祥图案、CC 许可图标等字符衍生自 [煮豆黑体](https://github.com/Buernia/Zhudou-Sans)；
 - 缺字标记 `.notdef` 的「🤔」外部轮廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)；
-- 带圈无衬线数字序号（➀`U+2780`～➓`U+2793`）内部数字字形借自 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 字体。
+- 带圈无衬线数字序号（➀`U+2780`～➓`U+2793`、🄋`U+1F10B`、🄌`U+1F10C`）内部数字字形借自 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 字体。
 
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
