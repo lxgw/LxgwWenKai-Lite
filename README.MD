@@ -27,13 +27,13 @@
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenkai-lite/main/documentation/wenkailite-6.png)
 
-## 字汇
+## 主要字汇
 
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 原字库所含繁体字对应的简化字（仅限 GBK 范围内）；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) [「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）与[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，《通用规范汉字表》一级字表），共计 3603 个简体常用汉字;
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) [「信息交换用汉字编码字符集 基本集（GB/T 2312-80）」](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 6763 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) [《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)收录的 8105 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  中国大陆[《标准电码本（1983 年修订本）》](https://zi.tools/?secondary=character_set&set=GT)收录的 7079 个汉字；   *（5831→螀，7016→镵）*
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  中国大陆[《标准电码本（1983 年修订本）》](https://zi.tools/?secondary=character_set&set=GT)收录的 7079 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  [小鹤音形输入法](https://flypy.cc/) 表外字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [「信息交换用汉字编码字符集 辅助集（GB/T 12345-90）」](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)6866 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字；
@@ -55,7 +55,7 @@
   - [x] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
   - [x] [#96](https://github.com/eisoch/irg/issues/96) 现代汉语中较常用的韩国吏读字和越南喃字；
   - [x] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《新华字典》（第 12 版）已入 U 字头、繁异体； 
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《新华字典》（第 13 版）已入 U 字头、繁异体； 
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《现代汉语词典》（第 7 版）已入 U 字头、繁异体。
 
 ## 获取字体
