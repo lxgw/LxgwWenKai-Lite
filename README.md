@@ -78,6 +78,7 @@
 
 本字体在 FONTWORKS（今 Monotype KK）开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目基础上改造，采用 [SIL Open Font License 1.1](https://openfontlicense.org) 授权许可。Klee 是 FONTWORKS 的商标。
 
+> [!NOTE]
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
 ### 许可
