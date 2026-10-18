@@ -123,7 +123,11 @@
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 
-## 更多「霞鹜」开源字体
+<h2>
+<img alt="霞鹜开源字体" src="https://raw.githubusercontent.com/lxgw/lxgw/refs/heads/main/images/osf-logo/lxgwosf-sc-day.svg#gh-light-mode-only" width = "512" height = "128"/>
+<img alt="霞鹜开源字体" src="https://raw.githubusercontent.com/lxgw/lxgw/refs/heads/main/images/osf-logo/lxgwosf-sc-night.svg#gh-dark-mode-only" width = "512" height = "128"/>
+</h2>
+
 ### 「霞鹜文楷」系列
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | **Lite**
 - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
